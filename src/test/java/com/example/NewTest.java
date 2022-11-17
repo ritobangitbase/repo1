@@ -12,6 +12,7 @@ import org.testng.annotations.*;
 public class NewTest {
 	
 	WebDriver driver; 
+	//Git comment
 
 	  @BeforeMethod 
 	    public void beforeMethod() { 
